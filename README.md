@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Grigoriy 👋
 
-<!--
-**Grigoriym/GrigoriyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Kotlin backend, Jetpack Compose
+- ⚡ Right now trying to write web site using Kotlin
 
-Here are some ideas to get you started:
+## Connect with me:
+<a href="https://www.linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<img align="left" alt="Android" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Gradle" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;"/>
