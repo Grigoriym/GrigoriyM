@@ -5,7 +5,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://www.instagram.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/GrigoriyM/GriogoriyM/main/icon/instagram.png"></a>
+<a href="https://www.instagram.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/instagram.png"></a>
 
 ### Languages and Tools:
 
