@@ -5,8 +5,9 @@
 - 🔥 I have a Mobile application and a backend for it. And they work together. Check them out: Cashier and cashier-api
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://www.instagram.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/instagram.png"></a>
+<a href="https://linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://instagram.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/instagram.png"></a>
+<a href="https://leetcode.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/leetcode.png"></a>
 
 ### Languages and Tools:
 
