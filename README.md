@@ -1,6 +1,6 @@
 ### Hi there, I'm Grigoriy 👋
 
-- 🌱 I’m currently learning Kotlin backend, Jetpack Compose
+- 🌱 I’m currently learning Kotlin backend, Jetpack Compose, and spend some time on leetcode.
 - ⚡ Right now trying to write web site using Kotlin
 - 🔥 I have a Mobile application and a backend for it. And they work together. Check them out: Cashier and cashier-api
 
