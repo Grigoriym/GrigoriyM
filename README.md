@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin backend, Jetpack Compose, and spend some time on leetcode.
 - ⚡ Right now trying to write web site using Kotlin
-- 🔥 I have a Mobile application and a backend for it. And they work together. Check them out: Cashier and cashier-api
+- 🔥 I have a Mobile application and a backend for it. And they work together. Check them out: [Cashier](https://github.com/Grigoriym/Cashier) and [cashier-api](https://github.com/Grigoriym/cashier-api)
 
 ### Connect with me:
 <a href="https://linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
