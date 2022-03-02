@@ -11,8 +11,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Android" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Kotlin" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Gradle" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img alt="Android" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" style="padding-right:10px;" />
+<img alt="Kotlin" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;"/>
+<img alt="Gradle" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;"/>
+<img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img alt="ktor" width="32px" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/ktor.png"/>
