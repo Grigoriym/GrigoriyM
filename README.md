@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin backend, Jetpack Compose
 - ⚡ Right now trying to write web site using Kotlin
+- 🔥 I have a Mobile application and a backend for it. And they work together. Check them out: Cashier and cashier-api
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
