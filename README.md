@@ -1,13 +1,14 @@
 ### Hi there, I'm Grigoriy 👋
 
 - 🌱 I’m currently learning Kotlin backend, Jetpack Compose, and spend some time on leetcode.
-- ⚡ Right now trying to write web site using Kotlin
-- 🔥 I have a Mobile application and a backend  under active development. And they work together. Check them out: [Cashier](https://github.com/Grigoriym/Cashier) and [cashier-api](https://github.com/Grigoriym/cashier-api). You are welcome to help with them.
+- ⚡ Right now trying to write a web-site using Kotlin
+- 🔥 I have a Mobile application and a backend under active development. And they work together. Check them out: [Cashier](https://github.com/Grigoriym/Cashier) and [cashier-api](https://github.com/Grigoriym/cashier-api). You are welcome to help with them.
 
 ### Connect with me:
 <a href="https://linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 <a href="https://instagram.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/instagram.png"></a>
 <a href="https://leetcode.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/leetcode.png"></a>
+<a href="https://stackoverflow.com/users/9822532/grigoriym"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/so.png"></a>
 
 ### Languages and Tools:
 
