@@ -10,6 +10,7 @@
 <a href="https://leetcode.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/leetcode.png"></a>
 <a href="https://stackoverflow.com/users/9822532/grigoriym"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/so.png"></a>
 <a href="https://www.hackerrank.com/grigoriy_mik"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/hackerrank.png"></a>
+<a href="https://app.codesignal.com/profile/grigoriy_m_one"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/codesignal.jpg"></a>
 
 ### Languages and Tools:
 
