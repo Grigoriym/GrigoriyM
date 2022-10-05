@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin backend, Jetpack Compose, and spend some time on leetcode.
 - ⚡ Right now trying to write a web-site using Kotlin
 - 🔥 I have a Mobile application and a backend under active development. And they work together. Check them out: [Cashier](https://github.com/Grigoriym/Cashier) and [cashier-api](https://github.com/Grigoriym/cashier-api). You are welcome to help with them.
-- ✨ There are the other small test pet-projects: [WeatherNineTwoThree](https://github.com/Grigoriym/WeatherNineTwoThree)
+- ✨ There are the other small test pet-projects: [WeatherNineTwoThree](https://github.com/Grigoriym/WeatherNineTwoThree), [BankPick](https://github.com/Grigoriym/Bankpick)
 
 ### Connect with me:
 <a href="https://linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
