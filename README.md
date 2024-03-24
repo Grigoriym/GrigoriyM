@@ -20,5 +20,5 @@
 <img align="left" alt="Kotlin" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="ktor" width="32px" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/ktor.png"/>
 <img align="left" alt="Compose" width="32px" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/compose.svg"/>
-<img align="left" alt="Gradle" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Gradle" width="32px" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/gradle.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
