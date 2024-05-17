@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin backend, Jetpack Compose, and spend some time on leetcode.
 - 🔥 [HateItOrRateIt](https://github.com/Grigoriym/HateItOrRateIt) app that helps to control the products you like/dislike
-- 🔥 [DocuVault](https://github.com/Grigoriym/DocuVault) app that willhelp you have all the documents right in your hand
+- 🔥 [DocuVault](https://github.com/Grigoriym/DocuVault) app that will help you to have all the documents all in one place
 - 🔥 I have a Mobile application and a backend under active development. And they work together. Check them out: [Cashier](https://github.com/Grigoriym/Cashier) and [cashier-api](https://github.com/Grigoriym/cashier-api). You are welcome to help with them.
 - ✨ There are the other small test pet-projects: [WeatherNineTwoThree](https://github.com/Grigoriym/WeatherNineTwoThree), [BankPick](https://github.com/Grigoriym/Bankpick), [grappim-APIs](https://github.com/Grigoriym/grappim-apis)
 
