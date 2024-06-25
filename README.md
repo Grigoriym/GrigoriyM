@@ -1,6 +1,7 @@
 ### Hi there, I'm Grigoriy 👋
 
 - 🌱 I’m currently learning Kotlin backend, Jetpack Compose, and spend some time on leetcode.
+- 🌱 [AiPal](https://github.com/Grigoriym/AiPal) app is intented for language learning with AI
 - 🔥 [HateItOrRateIt](https://github.com/Grigoriym/HateItOrRateIt) app that helps to control the products you like/dislike
 - 🔥 [DocuVault](https://github.com/Grigoriym/DocuVault) app that will help you to have all the documents all in one place
 - 🔥 I have a Mobile application and a backend under active development. And they work together. Check them out: [Cashier](https://github.com/Grigoriym/Cashier) and [cashier-api](https://github.com/Grigoriym/cashier-api). You are welcome to help with them.
