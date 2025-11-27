@@ -1,15 +1,14 @@
 ### Hi there, I'm Grigoriy 👋
 
-- 🌱 I’m currently learning Kotlin backend, Jetpack Compose, and spend some time on leetcode.
-- 🌱 [AiPal](https://github.com/Grigoriym/AiPal) app is intented for language learning with AI
+- 🌱 I am an Android developer. I might say that that a FLutter one as well.
+- 🌱 [TaigaMobileNova](https://github.com/Grigoriym/TaigaMobileNova) A fork of a discontinued mobile client for [Taiga](https://taiga.io/)
 - 🔥 [HateItOrRateIt](https://github.com/Grigoriym/HateItOrRateIt) app that helps to control the products you like/dislike
+- 🌱 [AiPal](https://github.com/Grigoriym/AiPal) app is intented for language learning with AI
 - 🔥 [DocuVault](https://github.com/Grigoriym/DocuVault) app that will help you to have all the documents all in one place
 - 🔥 I have a Mobile application and a backend under active development. And they work together. Check them out: [Cashier](https://github.com/Grigoriym/Cashier) and [cashier-api](https://github.com/Grigoriym/cashier-api). You are welcome to help with them.
-- ✨ There are the other small test pet-projects: [WeatherNineTwoThree](https://github.com/Grigoriym/WeatherNineTwoThree), [BankPick](https://github.com/Grigoriym/Bankpick), [grappim-APIs](https://github.com/Grigoriym/grappim-apis)
 
 ### Connect with me:
 <a href="https://linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://instagram.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/instagram.png"></a>
 <a href="https://leetcode.com/grigoriymikhalchuk/"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/leetcode.png"></a>
 <a href="https://stackoverflow.com/users/9822532/grigoriym"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/so.png"></a>
 <a href="https://www.hackerrank.com/grigoriy_mik"><img height="30" src="https://github.com/Grigoriym/GrigoriyM/blob/main/icon/hackerrank.png"></a>
