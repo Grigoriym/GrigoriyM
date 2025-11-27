@@ -1,6 +1,6 @@
 ### Hi there, I'm Grigoriy 👋
 
-- 🌱 I am an Android developer. I might say that that a FLutter one as well.
+- 🌱 I am an Android developer. I might say a Flutter one as well.
 - 🌱 [TaigaMobileNova](https://github.com/Grigoriym/TaigaMobileNova) A fork of a discontinued mobile client for [Taiga](https://taiga.io/)
 - 🔥 [HateItOrRateIt](https://github.com/Grigoriym/HateItOrRateIt) app that helps to control the products you like/dislike
 - 🌱 [AiPal](https://github.com/Grigoriym/AiPal) app is intented for language learning with AI and a KMP example
