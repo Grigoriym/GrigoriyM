@@ -21,7 +21,6 @@ Android developer by trade, tinkerer by nature. I build apps that solve real pro
 
 - 🎵 [Mukk](https://github.com/Grigoriym/Mukk) – Desktop music player built with Kotlin Multiplatform. Clean UI, actual functionality.
 - 🔥 [HateItOrRateIt](https://github.com/Grigoriym/HateItOrRateIt) – Track products you love and loathe. Because you forget which coffee brand made you happy.
-- ⏰ [MomentKit](https://github.com/Grigoriym/MomentKit) – Date-time utilities when you need to know exactly what time it is, everywhere.
 - 📋 [TaigaMobileNova](https://github.com/Grigoriym/TaigaMobileNova) – Revived fork of the discontinued Taiga mobile client. Project management without the desktop.
 
 #### Linux & Desktop Tools
