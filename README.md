@@ -6,12 +6,7 @@ Android developer by trade, tinkerer by nature. I build apps that solve real pro
 
 ### Core Technologies
 
-<img alt="Kotlin" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img alt="Android" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
-<img alt="Compose" width="32px" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/compose.svg" />
-<img alt="Gradle" width="32px" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/gradle.svg" />
-<img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img alt="ktor" width="32px" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/ktor.png" />
+<img alt="Kotlin" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> <img alt="Android" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" /> <img alt="Compose" width="32px" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/compose.svg" /> <img alt="Gradle" width="32px" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/gradle.svg" /> <img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img alt="ktor" width="32px" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/ktor.png" />
 
 ### Active Projects
 
@@ -31,5 +26,4 @@ Android developer by trade, tinkerer by nature. I build apps that solve real pro
 
 ### Connect
 
-<a href="https://linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://stackoverflow.com/users/9822532/grigoriym"><img height="30" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/so.png"></a>
+<a href="https://linkedin.com/in/grigoriy-mikhalchuk-v/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> <a href="https://stackoverflow.com/users/9822532/grigoriym"><img height="30" src="https://raw.githubusercontent.com/Grigoriym/GrigoriyM/main/icon/so.png"></a>
