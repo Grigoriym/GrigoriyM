@@ -15,6 +15,7 @@ Android developer by trade, tinkerer by nature. I build apps that solve real pro
 - 📋 [TaigaMobileNova](https://github.com/Grigoriym/TaigaMobileNova) – Revived fork of the discontinued Taiga mobile client. Project management without the desktop.
 - 🔥 [HateItOrRateIt](https://github.com/Grigoriym/HateItOrRateIt) – Track products you love and loathe. Because you forget which coffee brand made you happy.
 - 🎵 [Mukk](https://github.com/Grigoriym/Mukk) – Desktop music player built with Kotlin Multiplatform. Clean UI, actual functionality.
+- 💸 [Wallosmobile](https://github.com/Grigoriym/Wallosmobile) – Mobile client for Wallos, the self-hosted subscription tracker.
 
 #### Linux & Desktop Tools
 
