@@ -25,6 +25,7 @@ Android developer by trade, tinkerer by nature. I build apps that solve real pro
 #### Dev Tooling
 
 - 🤖 [agentic-grappim](https://github.com/Grigoriym/agentic-grappim) – Shared Claude Code skills and agents, installed once per machine and reused across all my projects.
+- 📦 [grappim-kit](https://github.com/Grigoriym/grappim-kit) – Shared Kotlin Multiplatform library extracted from duplicated code across my mobile apps.
 
 ### Connect
 
