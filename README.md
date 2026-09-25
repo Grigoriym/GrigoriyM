@@ -22,6 +22,10 @@ Android developer by trade, tinkerer by nature. I build apps that solve real pro
 - 📊 [dashtop](https://github.com/Grigoriym/dashtop) – Linux Mint Cinnamon desklet for system dashboard info. Clean stats at a glance.
 - 🎙️ [voicechat2](https://github.com/Grigoriym/voicechat2) – Fork of a fully local AI voicechat over WebSockets, reworked to taste.
 
+#### ESP32
+
+- 📟 [esp32-desk-display](https://github.com/Grigoriym/esp32-desk-display) – Always-on desk companion: an ESP32 with a tiny OLED showing time, weather, air quality, DWD warnings and the next U-Bahn departures. Plain C on ESP-IDF.
+
 #### Dev Tooling
 
 - 🤖 [agentic-grappim](https://github.com/Grigoriym/agentic-grappim) – Shared Claude Code skills and agents, installed once per machine and reused across all my projects.
