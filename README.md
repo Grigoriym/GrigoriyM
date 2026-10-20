@@ -17,16 +17,16 @@ Android developer by trade, tinkerer by nature. I build apps that solve real pro
 - 💸 [Wallosmobile](https://github.com/Grigoriym/Wallosmobile) – Mobile client for Wallos, the self-hosted subscription tracker.
 - 🎵 [Mukk](https://github.com/Grigoriym/Mukk) – Desktop music player built with Kotlin Multiplatform. Clean UI, actual functionality.
 
-#### Linux & Desktop Tools
-
-- 📊 [dashtop](https://github.com/Grigoriym/dashtop) – Linux Mint Cinnamon desklet for system dashboard info. Clean stats at a glance.
-- 🎙️ [voicechat2](https://github.com/Grigoriym/voicechat2) – Fork of a fully local AI voicechat over WebSockets, reworked to taste.
-
 #### ESP32
 
 - 📟 [esp32-desk-display](https://github.com/Grigoriym/esp32-desk-display) – Always-on desk companion: an ESP32 with a tiny OLED showing time, weather, air quality, DWD warnings and the next U-Bahn departures. Plain C on ESP-IDF.
 - 🎵 [esp32-mukklet](https://github.com/Grigoriym/esp32-mukklet) – Desk display showing what the Mukk music player is playing, with a knob to control it.
 - 🎹 [esp32-piano](https://github.com/Grigoriym/esp32-piano) – New brains for a flea-market toy keyboard: an ESP32 reads its keys and buttons, with a looper and per-style drum beats.
+
+#### Linux & Desktop Tools
+
+- 📊 [dashtop](https://github.com/Grigoriym/dashtop) – Linux Mint Cinnamon desklet for system dashboard info. Clean stats at a glance.
+- 🎙️ [voicechat2](https://github.com/Grigoriym/voicechat2) – Fork of a fully local AI voicechat over WebSockets, reworked to taste.
 
 #### Dev Tooling
 
